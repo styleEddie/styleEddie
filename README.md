@@ -9,7 +9,6 @@ I'm a developer passionate about **UI/UX design** and **Full Stack development**
 ### 🌐 Frontend  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
@@ -46,8 +45,6 @@ I'm a developer passionate about **UI/UX design** and **Full Stack development**
 
 ## 📚 Recent Projects  
 🔹 **AIVISION**: A health monitoring platform using machine learning and computer vision.  
-🔹 **Inventory Management**: A Full Stack inventory management system with React and Node.js.  
-
 ---
 
 ## 🌱 Currently Learning  
