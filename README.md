@@ -39,7 +39,7 @@
 - 🎨 Experienced with UI/UX design and frontend development using React, Svelte, and Astro  
 - 🚀 Passionate about performance, architecture, and code quality  
 - 🌱 Constantly learning and exploring new tools and best practices  
-- 🌎 Based in Mexico  
+<!-- -  🌎 Based in Mexico  --> 
 
 ---
 
